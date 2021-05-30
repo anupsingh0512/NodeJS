@@ -1,15 +1,28 @@
 {
+<<<<<<< HEAD
   "name": "node-express",
   "version": "1.0.0",
   "description": "Node-Express-Examples",
+=======
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "",
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Node-examples",
+>>>>>>> af2e9e8f1fec9a07559952172003db93b864258b
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
   },
   "author": "Anup Singh",
+<<<<<<< HEAD
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
   }
+=======
+  "license": "ISC"
+>>>>>>> af2e9e8f1fec9a07559952172003db93b864258b
 }
