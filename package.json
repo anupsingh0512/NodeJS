@@ -1,13 +1,10 @@
 {
-<<<<<<< HEAD
   "name": "node-http",
   "version": "1.0.0",
   "description": "",
-=======
   "name": "node-examples",
   "version": "1.0.0",
   "description": "Node-examples",
->>>>>>> d5d3b70afdbfcd204feb9a9abac05af554feb15e
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
