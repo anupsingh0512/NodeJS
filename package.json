@@ -1,15 +1,40 @@
 {
+<<<<<<< HEAD
   "name": "node-express",
   "version": "1.0.0",
   "description": "Node-Express-Example",
+=======
+<<<<<<< HEAD
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Node-Express-Examples",
+=======
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "",
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Node-examples",
+>>>>>>> af2e9e8f1fec9a07559952172003db93b864258b
+>>>>>>> 8a291a1a493c8f375a3517bc8ca5182a51381003
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
   },
   "author": "Anup Singh",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 8a291a1a493c8f375a3517bc8ca5182a51381003
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
   }
+<<<<<<< HEAD
+=======
+=======
+  "license": "ISC"
+>>>>>>> af2e9e8f1fec9a07559952172003db93b864258b
+>>>>>>> 8a291a1a493c8f375a3517bc8ca5182a51381003
 }
